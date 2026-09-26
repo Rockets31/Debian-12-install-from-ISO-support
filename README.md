@@ -15,6 +15,6 @@ installer. If you are using 'https://github.com/Mexit/MultiOS-USB', it is just a
 0. Use MultiOS-USB partition on 'exfat' or 'ext4' filesystem.
 1. Copy your Debian-12.15.0-iso files to 'ISOs' directory.
 2. Create a directory for 'grub.cfg' files: '/MultiOS-USB/config_priv/debian-scandev'
-3. Copy 'scandev-12.15.0.gz', 'debian-12.15.0-amd64_d-i.cfg' and 'debian-12.15.0-amd64-d-i_live.cfg' there.
+3. Copy 'scandev-12.15.0.gz','live-12.15.0.gz', 'debian-12.15.0-amd64_d-i.cfg' and 'debian-12.15.0-amd64-d-i_live.cfg' there.
 4. Reboot into 'MultiOS-USB' and start e.g. 'debian-12.15.0-amd64-DVD-1.iso [scandev]' entry.
 5. Debian-installer will start same way as started from a usb-stick.
