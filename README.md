@@ -1,5 +1,5 @@
 # Debian-12-install-from-ISO-support
-Providing additional functionality for diskless booting & installation of Debian Trixie via GNU GRUB. It is possible booting official Debian Installation (live) media diskless via GNU GRUB, but it is not possible installing the system via 
+Providing additional functionality for diskless booting & installation of Debian Bookworm via GNU GRUB. It is possible booting official Debian Installation (live) media diskless via GNU GRUB, but it is not possible installing the system via 
 Debian Installer. This repository provides config and image files for this installation scenario. This solution was triggered by this bug report Mexit/MultiOS-USB#77 and adopted to MultiOS-USB as a 'one-click-solution', but is usable with any 
 grub2 loopback setup.
 
